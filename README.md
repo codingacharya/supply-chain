@@ -6,3 +6,4 @@ pip install streamlit pandas numpy scikit-learn matplotlib seaborn
 
 streamlit run p3.py
 
+https://youtube.com/shorts/hoTMoP7SudM?feature=share
